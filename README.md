@@ -8,8 +8,7 @@ Bring both hands together in a claw pose and a glowing ring appears between them
 
 Watch the demo on LinkedIn: [(https://lnkd.in/p/gUX2UgaF)]
 
-
-[Demo](docs/demo.gif) 
+<img width="348" height="240" alt="demo" src="https://github.com/user-attachments/assets/04105feb-47cb-4aba-9637-9d077dd97d11" />
 
 ---
 
