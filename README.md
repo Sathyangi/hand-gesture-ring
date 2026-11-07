@@ -6,10 +6,10 @@ Bring both hands together in a claw pose and a glowing ring appears between them
 
 ## 🎥 Demo
 
-Watch the demo on LinkedIn: [add your post link here]
+Watch the demo on LinkedIn: [(https://lnkd.in/p/gUX2UgaF)]
 
-<!-- Optional: add a GIF by saving it as docs/demo.gif and uncommenting the next line -->
-<!-- ![Demo](docs/demo.gif) -->
+
+[Demo](docs/demo.gif) 
 
 ---
 
